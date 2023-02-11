@@ -1,1 +1,2 @@
-Create a new directory called 0x01-git
+It’s time to code!
+ Coding fury road
